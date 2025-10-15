@@ -26,7 +26,7 @@ It combines:
 - Real-time digital lending decision support
 
 The system outputs a **composite beneficiary credit score** and recommends loan amount, interest rate, and tenure while classifying users into **risk bands**.
-<video src="C:\Users\Admin\Videos\Screen Recordings/prototype.mp4" controls width="700"></video>
+<video src="prototype.mp4" controls width="700"></video>
 ---
 
 ## ✨ Key Features
@@ -97,3 +97,4 @@ npm install
 
 # Start development server
 npm run dev
+
